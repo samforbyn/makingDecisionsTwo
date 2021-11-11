@@ -66,3 +66,6 @@ while (guessMe < 100) {
     console.log(`Added 22, guessMe is now ${guessMe}`)
 }
 console.log(guessMe)
+
+
+//comment
